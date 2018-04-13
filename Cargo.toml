@@ -2,4 +2,5 @@
 
 members = [
     "bus-core",
+    "bus-raft",
 ]

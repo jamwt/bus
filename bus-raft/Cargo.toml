@@ -1,0 +1,7 @@
+[package]
+name = "bus-raft"
+version = "0.1.0"
+authors = ["Jamie Turner <jamwt@dropbox.com>"]
+
+[dependencies]
+futures = "0.2"
